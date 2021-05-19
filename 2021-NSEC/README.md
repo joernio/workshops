@@ -9,7 +9,7 @@ This workshop consists of 5 modules covering various concepts around Interactive
 4. **`Module 5`: Build Custom Scanners**: Use Joern Scan to build and integrate queries into a full custom scanner
 
 ## Workshop Guide
-Use the workshop presentation which also doubles as a step by step modular workshop guide  [`Finding-Stranger-Things-In-Code.pdf`](Finding-Stranger-Things-In-Code.pdf) The various modules are marked in the slides and contain all the commands presented in the workshop. You can directly copy/paste and run them on the Joern shell. This repo also contains scripts that are discussed in Module 4
+Use the workshop presentation which also doubles as a step by step modular workshop guide  [`2021-NSEC.pdf`](2021-NSEC.pdf) The various modules are marked in the slides and contain all the commands presented in the workshop. You can directly copy/paste and run them on the Joern shell. This repo also contains scripts that are discussed in Module 4
 
 ## Preparation
 
