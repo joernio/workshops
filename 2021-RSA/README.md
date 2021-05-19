@@ -39,4 +39,4 @@ Use the workshop presentation which also doubles as a step by step modular works
 * Query Database: https://queries.joern.io
 
 ## Support Channel
-Live support during workshop is provided in the `#query` channel on the Joern.io Discord Channel 
+Live support during workshop is provided in the `#rsa-lab2-r08` channel on the Joern.io Discord server 
